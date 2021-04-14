@@ -5,3 +5,9 @@ html, body {
 canvas {
   display: block;
 }
+
+div.emotions div {
+  font-size: 400%;
+  margin: 10px;
+  display: inline;
+}
